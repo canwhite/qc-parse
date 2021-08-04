@@ -1,0 +1,14 @@
+{
+  "name": "qc-parse",
+  "version": "1.0.1",
+  "description": "parse tool",
+  "main": "umd/index.js",
+  "module":"es/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "qc",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
