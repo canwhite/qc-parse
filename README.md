@@ -12,7 +12,10 @@ npm i qc-parse
   * stringify
   * parse
   * deep_clone
-  * parse_search  
+  * parse_search 
+  * get_os(Browser exclusive) 
+  * addTinyImg
+  * addTinyVideo
   todo ...      
 
 
